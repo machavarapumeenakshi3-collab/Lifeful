@@ -1,0 +1,6 @@
+{
+  "name": "lifeful",
+  "description": "Shop for the life you want. Next-generation lifestyle commerce and thoughtful life setup curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
